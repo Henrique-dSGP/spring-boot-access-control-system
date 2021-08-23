@@ -1,6 +1,5 @@
 # Desenvolvendo seguindo as aulas de Spring Boot do Santander Bootcamp | Fullstack Developer
 
-***em desenvolvimento!***
 
 
 
